@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sign_image_id: MyString
+  name: MyString
+  start_date: 2015-01-02
+  end_date: 2015-01-02
+  traits: MyText
+
+two:
+  sign_image_id: MyString
+  name: MyString
+  start_date: 2015-01-02
+  end_date: 2015-01-02
+  traits: MyText
